@@ -13,3 +13,4 @@ A decryptor of .json files that has a password hashed with the parameter "passwo
   - 2- pip install -r requirements.txt
   - 4- Place your .json databases in the input folder.
   - 5- Then run this command in the project folder: `python Database-Deasher.py`
+  - 6- Follow the steps as the example picture when you run the python file for start dehashing.
